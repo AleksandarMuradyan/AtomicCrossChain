@@ -31,3 +31,10 @@ Atomic Cross-chain swap steps:
 +1. If the transaction is not committed by Alice in step 4, after the timeout explires, all parties can revoke the transactions
 
 https://docs.google.com/presentation/d/1QBP0EbJ94lp2bjRpRqS_CzzvvmY-gOkUNGCTmF7jKsI/edit#slide=id.p
+
+Main problems:
+
+- Time synchronisation - when not synced, hacking attemtptes could be initiated.
+- Alica and Bob identities should not change during transaction process.
+- Ethereum network to validate HL Fabric transaction completion
+- Implement back-to-back gateway between HL and Ethereum
