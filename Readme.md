@@ -30,4 +30,4 @@ Atomic Cross-chain swap steps:
 
 +1. If the transaction is not committed by Alice in step 4, after the timeout explires, all parties can revoke the transactions
 
-
+https://docs.google.com/presentation/d/1QBP0EbJ94lp2bjRpRqS_CzzvvmY-gOkUNGCTmF7jKsI/edit#slide=id.p
